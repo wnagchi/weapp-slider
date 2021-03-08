@@ -2,4 +2,5 @@
 
 
 ## 小程序端的的区间滑动选择器
-![image](https://user-images.githubusercontent.com/29478905/110296335-3241f880-802d-11eb-89fc-44dfaeb205b2.png)
+![image](https://user-images.githubusercontent.com/29478905/110296406-45ed5f00-802d-11eb-9c8d-62b09035215f.png)
+
