@@ -1,0 +1,41 @@
+
+/*.sliderView{*/
+/*  position: relative;*/
+/*  width: 340px;*/
+/*  margin: 0 auto;*/
+/*  height: 26px;*/
+/*}*/
+/*.slider_warp{*/
+
+/*}*/
+/*.sliderView .slider_warp{*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*}*/
+/*.slider_warp .slider_line{*/
+/*  height: 6rpx;*/
+/*  width: calc(100% - 26px);*/
+/*  background:#D4D4D4;*/
+/*  position: absolute;*/
+/*  top: calc(50% - 3rpx);*/
+/*  left: 13px;*/
+/*}*/
+/*.slider_warp .slider_line_top{*/
+/*  height: 6rpx;*/
+/*  width: 300rpx;*/
+/*  position: absolute;*/
+/*  top: calc(50% - 3rpx);*/
+/*  background:#80170E ;*/
+/*}*/
+/*.slider_warp movable-view{*/
+/*  width: 26px;*/
+/*  height: 26px;*/
+/*  background: #ffffff;*/
+/*  border: 1px solid #D4D4D4;*/
+/*  box-shadow: 1px 1px 9px 0px rgba(0, 0, 0, 0.14);*/
+/*  border-radius: 50%;*/
+/*}*/
+.top_num{
+  text-align: center;
+  margin-top: 100rpx;
+}

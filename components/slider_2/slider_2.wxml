@@ -1,0 +1,28 @@
+
+<view class='sliderView'
+      id="slider"
+>
+    <movable-area class="slider_warp">
+        <view class="slider_line"></view>
+        <view
+                class="slider_line_top"
+                style="left:{{_sliderLineLeft}}px;width:{{_sliderLineWidth}}px"
+        ></view>
+        <movable-view
+                class="left"
+                direction="horizontal"
+                x="{{_sliderMinLeft}}"
+                animation="{{!enAnimation}}"
+                bindchange="sliderChange"
+                data-type="min"
+        ></movable-view>
+        <movable-view
+                class="right"
+                direction="horizontal"
+                x="{{_sliderMaxLeft}}"
+                animation="{{!enAnimation}}"
+                bindchange="sliderChange"
+                data-type="max"
+        ></movable-view>
+    </movable-area>
+</view>

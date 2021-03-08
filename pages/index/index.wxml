@@ -1,0 +1,4 @@
+<view class="top_num">{{min}}-{{max}}</view>
+
+<view  style="margin-top: 100rpx"></view>
+<slider_2 _sliderCurrValue="{{_sliderValue}}" bindchange="sliderChange"></slider_2>
