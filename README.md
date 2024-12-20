@@ -23,7 +23,7 @@ markdown
     </ani-slider>
 
 ```
-###Parameter Description
+### Parameter Description
 | Property | Type | Default Value | Required | Description |
 | :-----| ----: | :----: |:----: |:----: | 
 | width | Number | 320 | No | Width of the slider |
