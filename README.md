@@ -36,7 +36,5 @@ Parameter Description
 | active-color | String | #000000 | No | Color of the selected line | 
 | background-color | String | #D4D4D4 | No | Color of the background line |
 | block-size| Number | 26 | No | Size of the block | 
-| bindchange| Function | 
-| No | Event triggered during sliding |
-| bindchangeend| Function | 
-| No | Event triggered at the end of sliding |
+| bindchange| Function | No | Event triggered during sliding |
+| bindchangeend| Function | No | Event triggered at the end of sliding |
