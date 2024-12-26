@@ -1,7 +1,4 @@
-markdown
 
-
-复制代码
 # Mini Program Bidirectional Slider
 ![](img.png)
 ```javascript
